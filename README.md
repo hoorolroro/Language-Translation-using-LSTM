@@ -1,1 +1,1 @@
-# Language-Translation-with-LSTM
+# LSTM 기반 번역기
