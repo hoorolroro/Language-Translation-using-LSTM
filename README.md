@@ -17,7 +17,7 @@
 
 - 입력의 마지막 hidden state를 초기값으로 사용한다.  
 
-
+\
 <img src="https://user-images.githubusercontent.com/98728682/153708836-a425b499-08de-4125-8074-7f3616e96217.png" width="500" height="350">
 
 ## 프로그램 시현  
