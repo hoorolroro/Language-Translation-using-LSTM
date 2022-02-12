@@ -19,6 +19,7 @@
 <img src="https://user-images.githubusercontent.com/98728682/153708836-a425b499-08de-4125-8074-7f3616e96217.png" width="500" height="350">
 
 ## 프로그램 시현  
-● 영어와 프랑스어 쌍으로 이루어진 sequence to sequence dataset을 학습한다.
+● 영어와 프랑스어 쌍으로 이루어진 sequence to sequence dataset을 학습한다.  
+
 ● 아래와 같은 결과가 나왔다.  
 <img src="https://user-images.githubusercontent.com/98728682/153710157-92860926-5c56-4591-bb28-2cc8e8b22bf7.png" width="500" height="200"><img src="https://user-images.githubusercontent.com/98728682/153710167-bbb695be-d0f3-4e06-bd76-dfed9a4aac88.png" width="500" height="200"><img src="https://user-images.githubusercontent.com/98728682/153710178-0dbb1d81-da1c-4d86-b66e-9297f4fda3fd.png" width="500" height="200">
