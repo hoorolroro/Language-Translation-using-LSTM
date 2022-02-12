@@ -22,6 +22,6 @@
 ## 프로그램 시현  
 ● 영어와 프랑스어 쌍으로 이루어진 sequence to sequence dataset를 학습한다.  
 
-● 아래와 같은 결과가 나왔다.  
+● 학습한 모델로 아래와 같은 결과가 나왔다.  
 \
 <img src="https://user-images.githubusercontent.com/98728682/153710493-9f1f8b76-80cd-479c-a2d9-b31043cb05a3.png" width="500" height="100">
