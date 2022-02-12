@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/98728682/153707834-2ae2ae2d-3a19-4ce7-ba83-c38967ad4dff.png" width="450" height="350">  
 
-## Basic NMT(Neural Machine Translation)  
+## Basic NMT(Neural Machine Translation)의 구조  
 ● Encoder  
 - 입력으로 들어오는 문장을 LSTM을 이용해 잘 압축한다.  
 - 입력의 마지막 단어를 통해 나온 hidden state가 최종적으로 사용될 encoded layer이다.  
