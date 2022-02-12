@@ -17,7 +17,7 @@
 
 
 \
-<img src="https://user-images.githubusercontent.com/98728682/153708836-a425b499-08de-4125-8074-7f3616e96217.png" width="580" height="400">
+<img src="https://user-images.githubusercontent.com/98728682/153708836-a425b499-08de-4125-8074-7f3616e96217.png" width="600" height="420">
 
 ## 프로그램 시현  
 ● 영어와 프랑스어 쌍으로 이루어진 sequence to sequence dataset을 학습한다.  
