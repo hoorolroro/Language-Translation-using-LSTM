@@ -22,4 +22,4 @@
 ● 영어와 프랑스어 쌍으로 이루어진 sequence to sequence dataset을 학습한다.  
 
 ● 아래와 같은 결과가 나왔다.  
-<img src="https://user-images.githubusercontent.com/98728682/153710157-92860926-5c56-4591-bb28-2cc8e8b22bf7.png" width="500" height="200"><img src="https://user-images.githubusercontent.com/98728682/153710167-bbb695be-d0f3-4e06-bd76-dfed9a4aac88.png" width="500" height="200"><img src="https://user-images.githubusercontent.com/98728682/153710178-0dbb1d81-da1c-4d86-b66e-9297f4fda3fd.png" width="500" height="200">
+<img src="https://user-images.githubusercontent.com/98728682/153710493-9f1f8b76-80cd-479c-a2d9-b31043cb05a3.png" width="250" height="200"><img src="https://user-images.githubusercontent.com/98728682/153710500-1b2d9adb-1b3d-443e-9cf0-97cac9d90ceb.png" width="250" height="200"><img src="https://user-images.githubusercontent.com/98728682/153710506-7e75e5d7-cea0-4afb-9e82-cbdfafaa735c.png" width="250" height="200">
