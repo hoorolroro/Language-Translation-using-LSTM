@@ -8,8 +8,9 @@
 
 ## Basic NMT(Neural Machine Translation)  
 ● Encoder  
-- 입력으로 들어오는 문장을 LSTM을 이용해 잘 압축한다.
+- 입력으로 들어오는 문장을 LSTM을 이용해 잘 압축한다.  
 - 입력의 마지막 단어를 통해 나온 hidden state가 최종적으로 사용될 encoded layer이다.  
+- 
 ● Decoder  
--Encoding된 정보 vector를 이용해 출력 문장으로 하나하나 풀어낸다.  
--입력의 마지막 hidden state를 초기값으로 사용한다.
+- Encoding된 정보 vector를 이용해 출력 문장으로 하나하나 풀어낸다.  
+- 입력의 마지막 hidden state를 초기값으로 사용한다.
