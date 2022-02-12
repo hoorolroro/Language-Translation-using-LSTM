@@ -23,4 +23,4 @@
 
 ● 아래와 같은 결과가 나왔다.  
 
-<img src="https://user-images.githubusercontent.com/98728682/153710493-9f1f8b76-80cd-479c-a2d9-b31043cb05a3.png" width="500" height="100"><img src="https://user-images.githubusercontent.com/98728682/153710500-1b2d9adb-1b3d-443e-9cf0-97cac9d90ceb.png" width="500" height="80">
+<img src="https://user-images.githubusercontent.com/98728682/153710493-9f1f8b76-80cd-479c-a2d9-b31043cb05a3.png" width="500" height="100"><img src="https://user-images.githubusercontent.com/98728682/153710500-1b2d9adb-1b3d-443e-9cf0-97cac9d90ceb.png" width="450" height="60">
