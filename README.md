@@ -10,13 +10,13 @@
 
 <img src="https://user-images.githubusercontent.com/98728682/153808548-77bebf4b-d719-4a1d-82f4-404772f92b48.png" width="520" height="360">  
 
-● ft는 Forget gate layer로서 Cell state에서 어떤 정보를 지워버릴지 결정한다.  
+● Forget gate layer은 Cell state에서 어떤 정보를 지워버릴지 결정한다.  
 
-● ct는 candidate layer로서 여기서 모은 일부 정보만 Cell state에 들어간다.
+● Candidate laye에서 모은 일부 정보만 Cell state에 들어간다.
 
-● it는 Input gate layer로서 Candidate vector에서 뭘 넣어줄지 결정한다.  
+● Input gate layer은 Candidate vector에서 뭘 넣어줄지 결정한다.  
 
-● Cell state에서 저장된 핵심 데이터를 hidden state로 정보가 전달된다.
+● 마지막으로 Cell state에서 저장된 핵심 데이터를 hidden state로 정보가 전달된다.
 
 ## Basic NMT(Neural Machine Translation)의 구조  
 ● Encoder  
