@@ -19,6 +19,9 @@
 ● 마지막으로 Cell state에서 저장된 핵심 데이터를 hidden state로 정보가 전달된다.
 
 ## Basic NMT(Neural Machine Translation)의 구조  
+
+<img src="https://user-images.githubusercontent.com/98728682/153708836-a425b499-08de-4125-8074-7f3616e96217.png" width="650" height="450">  
+
 ● Encoder  
 - 입력으로 들어오는 문장을 LSTM을 이용해 잘 압축한다.  
 - 입력의 마지막 단어를 통해 나온 hidden state가 최종적으로 사용될 encoded layer이다.  
@@ -26,10 +29,6 @@
 ● Decoder  
 - Encoding된 정보 vector를 이용해 출력 문장으로 하나하나 풀어낸다.  
 - 입력의 마지막 hidden state를 초기값으로 사용한다.  
-
-
-\
-<img src="https://user-images.githubusercontent.com/98728682/153708836-a425b499-08de-4125-8074-7f3616e96217.png" width="650" height="450">
 
 ## 프로그램 시현  
 ● 영어와 프랑스어 쌍으로 이루어진 sequence to sequence dataset를 학습한다.  
