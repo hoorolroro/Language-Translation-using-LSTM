@@ -20,7 +20,7 @@
 
 ## Basic NMT(Neural Machine Translation)의 구조  
 
-<img src="https://user-images.githubusercontent.com/98728682/153708836-a425b499-08de-4125-8074-7f3616e96217.png" width="630" height="420">
+<img src="https://user-images.githubusercontent.com/98728682/153708836-a425b499-08de-4125-8074-7f3616e96217.png" width="610" height="400">
 ● Encoder  
 
 - 입력으로 들어오는 문장을 LSTM을 이용해 잘 압축한다.  
