@@ -18,8 +18,7 @@
 
 ● 마지막으로 Cell state에서 저장된 핵심 데이터를 hidden state로 정보가 전달된다.
 
-## Basic NMT(Neural Machine Translation)의 구조  
-
+## Basic NMT(Neural Machine Translation)의 구조
 <img src="https://user-images.githubusercontent.com/98728682/153708836-a425b499-08de-4125-8074-7f3616e96217.png" width="610" height="400">
 ● Encoder  
 
