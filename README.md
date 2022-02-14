@@ -22,6 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/98728682/153708836-a425b499-08de-4125-8074-7f3616e96217.png" width="630" height="420">
 ● Encoder  
+
 - 입력으로 들어오는 문장을 LSTM을 이용해 잘 압축한다.  
 
 - 입력의 마지막 단어를 통해 나온 hidden state가 최종적으로 사용될 encoded layer이다.  
