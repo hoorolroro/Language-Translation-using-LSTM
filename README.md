@@ -4,7 +4,9 @@
 
 ● LSTM에서는 Cell이란 구조를 만들어 gate에 의해서, 중요한 정보만 선택하고 다음 state에 전달하는 구조로 RNN의 문제점을 개선하였다.
 
-<img src="https://user-images.githubusercontent.com/98728682/153707834-2ae2ae2d-3a19-4ce7-ba83-c38967ad4dff.png" width="430" height="320"><img src="https://user-images.githubusercontent.com/98728682/153808548-77bebf4b-d719-4a1d-82f4-404772f92b48.png" width="520" height="360">  
+<img src="https://user-images.githubusercontent.com/98728682/153707834-2ae2ae2d-3a19-4ce7-ba83-c38967ad4dff.png" width="430" height="320">
+#
+<img src="https://user-images.githubusercontent.com/98728682/153808548-77bebf4b-d719-4a1d-82f4-404772f92b48.png" width="520" height="360">  
 
 ## Basic NMT(Neural Machine Translation)의 구조  
 ● Encoder  
