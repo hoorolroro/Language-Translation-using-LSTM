@@ -14,7 +14,9 @@
 
 ● ct는 candidate layer로서 여기서 모은 일부 정보만 Cell state에 들어간다.
 
-● it는 Input gate layer로서 Candidate vector에서 뭘 넣어줄지 결정한다.
+● it는 Input gate layer로서 Candidate vector에서 뭘 넣어줄지 결정한다.  
+
+● Cell state에서 저장된 핵심 데이터를 hidden state로 정보가 전달된다.
 
 ## Basic NMT(Neural Machine Translation)의 구조  
 ● Encoder  
