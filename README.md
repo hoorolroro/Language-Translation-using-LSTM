@@ -38,4 +38,4 @@
 \
 <img src="https://user-images.githubusercontent.com/98728682/153710493-9f1f8b76-80cd-479c-a2d9-b31043cb05a3.png" width="500" height="100">
 
-● 66.8점의 BLEU SCORE를 기록하였다.
+● 위의 번역은 66.8점의 BLEU Score를 기록하였다.[위의 ipynb 파일 참조]
